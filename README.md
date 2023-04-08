@@ -1,10 +1,21 @@
 # ImInputBinder
 Input binding widget for Dear ImGui library.
 
+## How to build and run the example
+### Linux
+In the project directory execute:
+```shell
+mkdir build
+cd build
+cmake -DBUILD_EXAMPLE=ON ..
+make
+./ImInputBinderExample
+```
+
 ## How to use
 ### Prerequisites
 - C++11 (C++17 to run the example),
-- `imgui.h` available in include path.
+- `imgui.h` available the in include path.
 
 ### 1) Get the sources
 You can add the widget to your project directly by downloading ZIP of the repo and adding ImInputBinder.h to your include path
