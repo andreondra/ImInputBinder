@@ -1,5 +1,5 @@
 # ImInputBinder
-Input binding widget for Dear ImGui library.
+Input binding widget for Dear ImGui library. The project was developed for the [Universal System Emulator](https://github.com/andreondra/use). Check out the project for an example of usage.
 
 ## How to build and run the example
 ### Linux
